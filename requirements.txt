@@ -4,3 +4,7 @@ matplotlib
 seaborn
 langchain
 streamlit
+fastapi
+uvicorn
+python-multipart
+openpyxl
